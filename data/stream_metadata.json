@@ -1,0 +1,435 @@
+[
+  {
+    "filename": "stream_chunk_0001.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "ddos": 2,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0002.csv",
+    "num_records": 50,
+    "num_anomalies": 7,
+    "anomaly_types": {
+      "ddos": 3,
+      "brute_force": 2,
+      "port_scan": 1,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0003.csv",
+    "num_records": 50,
+    "num_anomalies": 8,
+    "anomaly_types": {
+      "ddos": 3,
+      "data_exfiltration": 2,
+      "port_scan": 2,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0004.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "malware_communication": 1,
+      "ddos": 1,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0005.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "data_exfiltration": 1,
+      "malware_communication": 1,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0006.csv",
+    "num_records": 50,
+    "num_anomalies": 0,
+    "anomaly_types": {}
+  },
+  {
+    "filename": "stream_chunk_0007.csv",
+    "num_records": 50,
+    "num_anomalies": 10,
+    "anomaly_types": {
+      "brute_force": 5,
+      "data_exfiltration": 4,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0008.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "brute_force": 2,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0009.csv",
+    "num_records": 50,
+    "num_anomalies": 5,
+    "anomaly_types": {
+      "malware_communication": 3,
+      "port_scan": 1,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0010.csv",
+    "num_records": 50,
+    "num_anomalies": 6,
+    "anomaly_types": {
+      "data_exfiltration": 3,
+      "malware_communication": 2,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0011.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "data_exfiltration": 2,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0012.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "port_scan": 2,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0013.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "malware_communication": 2,
+      "brute_force": 1,
+      "port_scan": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0014.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "data_exfiltration": 3,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0015.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "malware_communication": 2,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0016.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "port_scan": 2,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0017.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "ddos": 2,
+      "malware_communication": 1,
+      "port_scan": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0018.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "port_scan": 1,
+      "brute_force": 1,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0019.csv",
+    "num_records": 50,
+    "num_anomalies": 5,
+    "anomaly_types": {
+      "ddos": 3,
+      "malware_communication": 1,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0020.csv",
+    "num_records": 50,
+    "num_anomalies": 6,
+    "anomaly_types": {
+      "brute_force": 4,
+      "malware_communication": 1,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0021.csv",
+    "num_records": 50,
+    "num_anomalies": 5,
+    "anomaly_types": {
+      "port_scan": 2,
+      "malware_communication": 1,
+      "brute_force": 1,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0022.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "malware_communication": 2,
+      "port_scan": 1,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0023.csv",
+    "num_records": 50,
+    "num_anomalies": 1,
+    "anomaly_types": {
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0024.csv",
+    "num_records": 50,
+    "num_anomalies": 5,
+    "anomaly_types": {
+      "ddos": 4,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0025.csv",
+    "num_records": 50,
+    "num_anomalies": 8,
+    "anomaly_types": {
+      "malware_communication": 2,
+      "port_scan": 2,
+      "data_exfiltration": 2,
+      "ddos": 1,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0026.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "brute_force": 2,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0027.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "malware_communication": 3,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0028.csv",
+    "num_records": 50,
+    "num_anomalies": 8,
+    "anomaly_types": {
+      "ddos": 3,
+      "port_scan": 3,
+      "data_exfiltration": 1,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0029.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "malware_communication": 2,
+      "ddos": 1,
+      "port_scan": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0030.csv",
+    "num_records": 50,
+    "num_anomalies": 2,
+    "anomaly_types": {
+      "ddos": 1,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0031.csv",
+    "num_records": 50,
+    "num_anomalies": 2,
+    "anomaly_types": {
+      "brute_force": 2
+    }
+  },
+  {
+    "filename": "stream_chunk_0032.csv",
+    "num_records": 50,
+    "num_anomalies": 7,
+    "anomaly_types": {
+      "port_scan": 3,
+      "malware_communication": 2,
+      "brute_force": 2
+    }
+  },
+  {
+    "filename": "stream_chunk_0033.csv",
+    "num_records": 50,
+    "num_anomalies": 6,
+    "anomaly_types": {
+      "port_scan": 2,
+      "data_exfiltration": 2,
+      "ddos": 1,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0034.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "data_exfiltration": 2,
+      "malware_communication": 2
+    }
+  },
+  {
+    "filename": "stream_chunk_0035.csv",
+    "num_records": 50,
+    "num_anomalies": 8,
+    "anomaly_types": {
+      "brute_force": 2,
+      "port_scan": 2,
+      "ddos": 2,
+      "malware_communication": 1,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0036.csv",
+    "num_records": 50,
+    "num_anomalies": 6,
+    "anomaly_types": {
+      "port_scan": 2,
+      "brute_force": 1,
+      "malware_communication": 1,
+      "ddos": 1,
+      "data_exfiltration": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0037.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "port_scan": 1,
+      "data_exfiltration": 1,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0038.csv",
+    "num_records": 50,
+    "num_anomalies": 7,
+    "anomaly_types": {
+      "data_exfiltration": 3,
+      "malware_communication": 1,
+      "brute_force": 1,
+      "port_scan": 1,
+      "ddos": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0039.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "data_exfiltration": 2,
+      "port_scan": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0040.csv",
+    "num_records": 50,
+    "num_anomalies": 6,
+    "anomaly_types": {
+      "port_scan": 2,
+      "ddos": 2,
+      "brute_force": 1,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0041.csv",
+    "num_records": 50,
+    "num_anomalies": 8,
+    "anomaly_types": {
+      "malware_communication": 4,
+      "ddos": 2,
+      "data_exfiltration": 1,
+      "brute_force": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0042.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "malware_communication": 1,
+      "brute_force": 1,
+      "port_scan": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0043.csv",
+    "num_records": 50,
+    "num_anomalies": 4,
+    "anomaly_types": {
+      "ddos": 1,
+      "data_exfiltration": 1,
+      "port_scan": 1,
+      "malware_communication": 1
+    }
+  },
+  {
+    "filename": "stream_chunk_0044.csv",
+    "num_records": 50,
+    "num_anomalies": 3,
+    "anomaly_types": {
+      "data_exfiltration": 3
+    }
+  }
+]
