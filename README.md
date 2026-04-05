@@ -1,4 +1,4 @@
-# AI-Driven Threat Detection System
+# Data-Driven-Network-Threat-Identification Using Machine Learning
 
 This project is an AI-driven threat detection system designed to analyze network traffic and identify potential anomalies in real-time. It uses a machine learning model (Isolation Forest) to detect suspicious activities within a network by distinguishing between normal and abnormal traffic patterns.
 
